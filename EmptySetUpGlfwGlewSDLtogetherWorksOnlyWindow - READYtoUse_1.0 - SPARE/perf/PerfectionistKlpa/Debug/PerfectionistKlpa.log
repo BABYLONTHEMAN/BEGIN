@@ -1,0 +1,6 @@
+﻿  Mesh.cpp
+  main.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  PerfectionistKlpa.vcxproj -> C:\Users\babyl\source\repos\2022\EmptySetUpGlfw - READYtoUse_1.1\perf\Debug\PerfectionistKlpa.exe
